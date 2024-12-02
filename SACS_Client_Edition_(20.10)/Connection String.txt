@@ -1,0 +1,19 @@
+Instance name:	pbms001zadpwi
+Login name:	  	PBMS002ZACMWI
+Password:   		12PBMS002ZACMWI!@
+Port Number:   	55636
+
+Maindata	
+Provider=SQLOLEDB.1;Data Source=pbms001zadpwi;Persist Security Info=True;Password=12PBMS002ZACMWI!@;User ID=PBMS002ZACMW;Initial Catalog=ssMainData
+
+Accesslog	
+Provider=SQLOLEDB.1;Data Source=pbms001zadpwi;Persist Security Info=True;Password=12PBMS002ZACMWI!@;User ID=PBMS002ZACMW;Initial Catalog=ssAcclog
+
+Sytemlog	
+Provider=SQLOLEDB.1;Data Source=pbms001zadpwi;Persist Security Info=True;Password=12PBMS002ZACMWI!@;User ID=PBMS002ZACMW;Initial Catalog=ssSyslog
+
+Media path
+\\psvs101zatcwi\TagHolders\VC_Photos\
+
+Report path
+F:\Saflec Systems\SACS\Reports
